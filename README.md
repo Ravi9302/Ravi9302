@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a passionate Computer Science Engineering student currently in my 3rd year, with a strong interest in Data Analytics and problem-solving. I enjoy working with data to discover insights and build meaningful solutions. I am continuously improving my skills in programming, data analysis, and software development. I like building projects that combine technology and creativity. My goal is to grow as a data analyst and contribute to impactful real-world projects through continuous learning and collaboration.
+I am a passionate Computer Science Engineering student currently in my 3rd year, with Aspiring Data Scientist with strong knowledge of Python, SQL, Machine Learning, and Data Analysis. Passionate
+about solving real-world problems using data-driven approaches and continuously learning new technologies.
 
 
 ## 🌐 Socials:
