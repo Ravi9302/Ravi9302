@@ -34,12 +34,12 @@ about solving real-world problems using data-driven approaches and continuously 
 
 ---
 
-## 📂 Featured Projects
+<!--## 📂 Featured Projects
 
 - 📊 Resume Screening System
 - 📈 Student Performance Analysis
 - 📧 Spam Email Detection
-- 💰 Salary Prediction using Machine Learning
+- 💰 Salary Prediction using Machine Learning-->
 
 ---
 
