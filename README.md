@@ -39,9 +39,9 @@ about solving real-world problems using data-driven approaches and continuously 
 - 📊 Resume Screening System
 - 📈 Student Performance Analysis
 - 📧 Spam Email Detection
-- 💰 Salary Prediction using Machine Learning-->
+- 💰 Salary Prediction using Machine Learning
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
