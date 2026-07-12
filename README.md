@@ -7,7 +7,7 @@
 
 I am a passionate Computer Science Engineering student currently in my 3rd year, with Aspiring Data Scientist with strong knowledge of Python, SQL, Machine Learning, and Data Analysis. Passionate
 about solving real-world problems using data-driven approaches and continuously learning new technologies.
-- 📫 Email: **raviahirwar21216@gmail.com**
+<!--- 📫 Email: **raviahirwar21216@gmail.com**-->
 
 ---
 
