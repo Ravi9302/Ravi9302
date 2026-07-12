@@ -5,12 +5,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering (3rd Year)
-- 📊 Learning Data Science & Machine Learning
-- 🐍 Python Programmer
-- 💡 Interested in AI, Data Analysis and Real-World Projects
-- 🌱 Currently learning Scikit-learn, Pandas, NumPy and SQL
-- 🚀 Goal: Become a Data Scientist
+I am a passionate Computer Science Engineering student currently in my 3rd year, with Aspiring Data Scientist with strong knowledge of Python, SQL, Machine Learning, and Data Analysis. Passionate
+about solving real-world problems using data-driven approaches and continuously learning new technologies.
 - 📫 Email: **raviahirwar21216@gmail.com**
 
 ---
